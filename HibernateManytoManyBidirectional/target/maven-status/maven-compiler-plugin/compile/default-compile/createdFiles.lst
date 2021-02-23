@@ -1,0 +1,4 @@
+com\bidirectional\manytomany\hibernate\HibernateStandAlone.class
+com\bidirectional\manytomany\hibernate\model\Student.class
+com\bidirectional\manytomany\hibernate\model\Subject.class
+com\bidirectional\manytomany\hibernate\HibernateUtil.class
